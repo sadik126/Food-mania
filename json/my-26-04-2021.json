@@ -1,0 +1,56 @@
+[
+    {
+        "id": "8",
+        "name": "Rayhan ",
+        "email": "sadikhimel04@gmail.com",
+        "username": "sadik",
+        "dateofbirth": "1998-12-27",
+        "password": "1234",
+        "gender": "Male"
+    },
+    {
+        "id": "11",
+        "name": "Rayhan ",
+        "email": "sadikhimel04@gmail.com",
+        "username": "sadik1",
+        "dateofbirth": "1997-12-29",
+        "password": "1234",
+        "gender": "Male"
+    },
+    {
+        "id": "25",
+        "name": "tamim",
+        "email": "17-35014-2@student.aiub.edu",
+        "username": "tamim29",
+        "dateofbirth": "1998-12-27",
+        "password": "1234",
+        "gender": "Male"
+    },
+    {
+        "id": "38",
+        "name": "Rayhan ",
+        "email": "17-35014-2@student.aiub.edu",
+        "username": "sadik68",
+        "dateofbirth": "1998-12-27",
+        "password": "1234",
+        "gender": "Male"
+    },
+    {
+        "id": "39",
+        "name": "",
+        "email": "",
+        "username": "",
+        "dateofbirth": "0000-00-00",
+        "password": "",
+        "gender": ""
+    },
+    {
+        "id": "40",
+        "name": "Rayhan ",
+        "email": "sadikhimel04@gmail.com",
+        "username": "sadik88",
+        "dateofbirth": "1998-12-28",
+        "password": "1234",
+        "gender": "Male"
+    }
+]
